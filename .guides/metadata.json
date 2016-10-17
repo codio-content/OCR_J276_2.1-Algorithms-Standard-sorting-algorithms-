@@ -1,0 +1,73 @@
+{
+ "sections": [
+  {
+   "id": "7c530725-7b07-04dc-9a34-58628f066009",
+   "title": "Standard sorting algorithms ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Standard-sorting-algorithms--7c53.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1c28cc06-810e-da58-e093-abb78ff47d39",
+   "title": "Bubble sort",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Bubble-sort-1c28.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "77b281fa-553d-3258-871a-37b09a9dd79e",
+   "title": "Insertion sort",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Insertion-sort-77b2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d8c40d02-6625-c4ca-1ba9-843b7a32a593",
+   "title": "Merge sort",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Merge-sort-d8c4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5c80e95b-9e33-88c5-2779-bc7ed7336e37",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-5c80.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b44b541a-27d4-e1b1-8611-7aab6af37f3e",
+   "title": "Question",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-b44b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

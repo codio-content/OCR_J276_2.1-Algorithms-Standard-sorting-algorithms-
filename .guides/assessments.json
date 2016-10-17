@@ -1,0 +1,36 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-229686709",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "|**Number**  | **Text**|\n| :------: | :----------- |\n| 1 | <<<Is list[index] > list[index + 1]?>>>|\n| 2 | <<<index = index +1>>>|\n| 3 | <<<Is index = length?>>>|\n| 4 | <<<Is swap = 0?>>>|\n| 5 | <<<End>>>|\n",
+   "tokens": {
+    "blank": [
+     "Is list[index] > list[index + 1]?",
+     "index = index +1",
+     "Is index = length?",
+     "Is swap = 0?",
+     "End"
+    ],
+    "text": [
+     "|**Number**  | **Text**|\n| :------: | :----------- |\n| 1 | ",
+     0,
+     "|\n| 2 | ",
+     0,
+     "|\n| 3 | ",
+     0,
+     "|\n| 4 | ",
+     0,
+     "|\n| 5 | ",
+     0,
+     "|\n"
+    ]
+   }
+  }
+ }
+]
