@@ -28,7 +28,7 @@ The same procedure is done for the last merge.
 
 ![](.guides/img/merge5.png)
 
-The merge sort algorithm is the most efficient for large lists but for small lists (less than 1,000) the time difference is less than one second.
+The merge sort algorithm is efficient for a large number of items but for small items (less than 1,000) the time difference is less than one second.
 
 Have a look at this video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dENca26N6V4" frameborder="0" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ After the first pass the highest value (Stephen) has risen like a bubble into it
 
 ![](.guides/img/secondpass.png)
 
-Mow all of the values are in their correct positions.
+Now all of the values are in their correct positions.
 But the computer would have to carry out a third pass to confirm this – it has to carry out passes until there are no swaps.
 
 
